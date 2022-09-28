@@ -7,10 +7,10 @@ let tab = document.getElementById("conteneur");
 tableau.appendChild(newTab);
 
 var count = 0;
-    var boutton = document.getElementById("cliquer");
+    var bouton = document.getElementById("cliquer");
     var disp = document.getElementById("display");
   
-    boutton.onclick = function () {
+    bouton.onclick = function () {
     count++;
     disp.innerHTML = count;
     }
