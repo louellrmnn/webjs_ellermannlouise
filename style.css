@@ -1,0 +1,14 @@
+.element1 {
+	background-color: blueviolet;
+}
+.element2 {
+	background-color: darkred;
+}
+.element3 {
+	background-color: aquamarine;
+}
+
+#conteneur {
+	display: flex;
+	flex-direction: column;
+}s
